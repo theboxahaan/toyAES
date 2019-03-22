@@ -1,7 +1,7 @@
 # toyAES
 Implementation of toyAES in C++ using 
 ```c++
-std::bitset<4> aes-state[][]
+typedef std::vector<std::vector<std::bitset<4> > > aes_state
 ```
 ### To Compile
 ```bash
