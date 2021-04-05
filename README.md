@@ -1,4 +1,7 @@
 # toyAES
+
+<img src ="https://github.com/theboxahaan/toyAES/raw/master/images/man.png" width=60%>
+
 Implementation of a miniaturised *16-bit* version of *Rijndael's* AES in C++ 
 ```c++
 typedef std::vector<std::vector<std::bitset<4> > > aes_state
